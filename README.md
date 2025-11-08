@@ -43,7 +43,6 @@
 My Portfolio: [https://www.wonchan.net](https://www.wonchan.net) <br>
 My Blog: [https://velog.io/@leewonchan](https://velog.io/@leewonchan) <br>
 My Service Status: [https://status.jeonnam.school](https://status.jeonnam.school) <br>
-My idc Status: [https://idc.jeonnam.school](https://idc.jeonnam.school) <br>
 Linux Mirror: [https://mirror.jeonnam.school](https://mirror.jeonnam.school) <br>
 Upcoin: [https://www.upcoin.kr](https://www.upcoin.kr)
 
