@@ -1,5 +1,4 @@
-
-![Lucidus](https://criminal-vivyanne-lucidus-346ca075.koyeb.app/lucidus/card_v1?theme=dark&name=Lee%20Wonchan&job=Backend%20Engineer&company=Jeonnam%20High%20School&address=Gwangju%20Metropolitan%20City&about=%EB%A7%A4%EC%9A%B0%20%ED%8F%89%EB%B2%94%ED%95%9C%20%EC%9D%B8%EB%AC%B8%EA%B3%84%20%EA%B3%A0%EB%93%B1%ED%95%99%EC%83%9D%20%EA%B0%9C%EB%B0%9C%EC%9E%90&email=wonchan%40wonchan.net&linkedin=https%3A%2F%2Fwww.instagram.com%2Fwonchan.dev%2F)
+<h2>Hi there 👋</h2>
 
 <h3>🛠 Tech Stack 🛠</h3>
 
@@ -14,7 +13,6 @@
   <img src="https://img.shields.io/badge/MySql-E6B91E?style=for-the-badge&logo=MySql&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/Linux-E6B91E?style=for-the-badge&logo=Linux&logoColor=black"/>&nbsp 
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>&nbsp 
-  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/>&nbsp 
 <img src="https://img.shields.io/badge/ReactNative-222222?style=for-the-badge&logo=React&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"/>&nbsp 
