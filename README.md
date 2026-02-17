@@ -31,8 +31,8 @@
 
 <h3> 💕Contact💕  </h3>
 <p>
-  <a href="mailto:wonchan@wonchan.net"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=antara7295@gmail.com"/>
-    <a href="https://www.instagram.com/wonchan.dev/">
+  <a href="mailto:wonchan@wonchan.net"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=wonchan@wonchan.net"/>
+    <a href="https://www.instagram.com/wchaneee/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </p>
 <br>
@@ -40,7 +40,7 @@
 
 My Portfolio: [https://www.wonchan.net](https://www.wonchan.net) <br>
 My Blog: [https://velog.io/@leewonchan](https://velog.io/@leewonchan) <br>
-My Service Status: [https://status.jeonnam.school](https://status.jeonnam.school) <br>
-Linux Mirror: [https://mirror.jeonnam.school](https://mirror.jeonnam.school) <br>
+My Service Status: [https://status.wonchan.net](https://status.wonchan.net) <br>
+Linux Mirror: [https://mirror.wonchan.net](https://mirror.wonchan.net) <br>
 Upcoin: [https://www.upcoin.kr](https://www.upcoin.kr)
 
